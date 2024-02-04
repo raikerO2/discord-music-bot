@@ -34,3 +34,6 @@ You'll also need FFmpeg for either windows/linux/mac. For windows you simply add
 Simple and easy.
 
 For more features, stay tooned.
+
+# Troubleshooting
+If you get any of the "ffmpeg successfully terminated with error code 123456" bla bla bla. You can fiddle around with the versions, for me it currently worked with 6.1. Yours might be different depending on your env.
